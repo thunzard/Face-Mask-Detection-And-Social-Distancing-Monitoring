@@ -1,4 +1,4 @@
-# Face-Mask-Detection-And-Social-Distancing-Mponitoring
+# Face-Mask-Detection-And-Social-Distancing-Monitoring
 This is a project to prevent the spread of COVID-19 virus. This project is divided into  two parts. Face mask detection using image-net, Social distancing detection using YOLO v3 and numpy, matplotlib, etc. 
 
 
@@ -14,3 +14,10 @@ Explaination on how the model is working and how it can be used, in an organisat
 
 
 # How to Run it on your CPU
+Firstly download all the files from this reposetory.
+Then Download the All the files from this link.
+
+
+https://drive.google.com/drive/folders/1ipHauXF92xLvv3Ghi9afquJlhg9l85np?usp=sharing
+
+
