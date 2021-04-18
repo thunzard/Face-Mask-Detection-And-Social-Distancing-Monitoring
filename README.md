@@ -14,7 +14,7 @@ Explaination on how the model is working and how it can be used, in an organisat
 
 
 # How to Run it on your CPU
-Firstly download all the files from this reposetory.
+Firstly download all the files from this repository.
 Then Download the All the files from this link.
 
 
