@@ -11,3 +11,6 @@ Explaination on how the model is working and how it can be used, in an organisat
 
 
 *pro tip- download the document in ppt format in order to see all the transitions for better understandings.
+
+
+# How to Run it on your CPU
