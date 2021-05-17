@@ -14,10 +14,13 @@ Explaination on how the model is working and how it can be used, in an organisat
 
 
 # How to Run it on your CPU
-Firstly download all the files from this repository.
-Then Download the All the files from this link.
+*Firstly download all the files from this repository.
+*Then Download the All the files from this link.
 
 
 https://drive.google.com/drive/folders/1ipHauXF92xLvv3Ghi9afquJlhg9l85np?usp=sharing
+
+*Save all the filess in each folder inside the folder of the same name from the repository.
+*Then download Anaconda foor windows
 
 
