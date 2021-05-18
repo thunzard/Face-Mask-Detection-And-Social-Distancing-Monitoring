@@ -37,4 +37,19 @@ https://drive.google.com/drive/folders/1ipHauXF92xLvv3Ghi9afquJlhg9l85np?usp=sha
 * Now we have to create a python vertual environment in order to execute this code.
 * So give the command, 'pip install virtualenv' this will install the virtual environment.
 * After installing we have to launch a vertual environment, with any name you like.
-* Give the command 
+* Give the command 'virtualenv "any name you like"' (Eg:- env)
+* Then we have to activate the vertual environment.
+* Give the command 'env\Scripts\activate' or any vertual environment name you have given.
+* Like the last program now install all the requird packeges use the command 'pip install -r requirements.txt'.
+* Wait for all the packeges to get installed, and while waiting,
+* Download any small video from the internet where people are walking on road or signal and save it in the file where the code is there with the name 'test.mp4'.
+* Finally go to the Anaconda Prompt and execute this command, 'time python social_distance_detector.py --input test.mp4 --output results.avi --display 1'
+* Wait for hours to process the data to give you output.
+* Finally your output will be saved in an .avi file as 'results.avi' in the same folder which you can play and enjoy.
+
+
+
+
+
+
+Hopefully everyone got the output. For any issues submit your problems in the issues section of the project.
