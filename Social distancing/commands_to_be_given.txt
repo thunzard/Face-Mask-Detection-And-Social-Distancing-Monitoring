@@ -1,2 +1,1 @@
-venv\Scripts\activate
-python social_distance_detector.py --input pedestrians.mp4 --output output.avi --display 1
+
