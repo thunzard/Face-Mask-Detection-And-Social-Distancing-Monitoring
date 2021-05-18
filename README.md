@@ -32,7 +32,7 @@ https://drive.google.com/drive/folders/1ipHauXF92xLvv3Ghi9afquJlhg9l85np?usp=sha
 * Wait for some time as it will process the whole mask detection code.
 * Enjoy output if your webcam is working properly.
 
-# For Social Distancing program
+# For Social Distancing Program
 * Open the path of the social distancing detection folder in the anaconda prompt.
 * Now we have to create a python vertual environment in order to execute this code.
 * So give the command, 'pip install virtualenv' this will install the virtual environment.
